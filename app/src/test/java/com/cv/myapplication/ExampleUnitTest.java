@@ -1,4 +1,4 @@
-package com.yoka.myapplication;
+package com.cv.myapplication;
 
 import org.junit.Test;
 

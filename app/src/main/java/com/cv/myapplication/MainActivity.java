@@ -1,11 +1,7 @@
-package com.yoka.myapplication;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.cv.myapplication;
 
 import android.graphics.Bitmap;
 import android.os.Bundle;
-import android.os.Message;
-import android.util.Log;
 import android.widget.ImageView;
 
 import org.opencv.android.BaseLoaderCallback;
@@ -25,9 +21,7 @@ import org.opencv.imgproc.Imgproc;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 public class MainActivity extends CameraActivity implements CameraBridgeViewBase.CvCameraViewListener2 {
     /**
