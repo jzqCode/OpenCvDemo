@@ -1,2 +1,2 @@
 # OpenCvDemo
-opencv物体检测
+https://www.jianshu.com/p/4b85394b1ed4
